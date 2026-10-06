@@ -63,10 +63,11 @@ with a mean RMSE of **4.86**.
 └── README.md
 ```
 
-`original_experiment.ipynb` contains a cleaned, presentation-ready version of the historical experimental notebook.
+`original_experiment.ipynb` contains a cleaned, presentation-ready version of the project notebook.
 
 ## Research Context
-This repository preserves the experimental work developed as an RMT final project and documented in the accompanying conference publication. The notebook has been cleaned and organized for readability while preserving the original experimental methodology and published results.
+
+This work was developed as an RMT final project and subsequently documented in the conference paper *Bus Arrival Time Prediction Using Machine Learning Models*. The repository brings together the original experimental notebook, model evaluation, and published results.
 
 ## Publication
 
