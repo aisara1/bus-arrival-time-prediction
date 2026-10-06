@@ -65,15 +65,8 @@ with a mean RMSE of **4.86**.
 
 `original_experiment.ipynb` contains a cleaned, presentation-ready version of the historical experimental notebook.
 
-## Methodological Note
-
-This repository preserves the original university research experiment rather than retroactively redesigning it.
-
-Some aspects of the historical workflow — particularly random train/test splitting for temporal data and preprocessing performed before the split — would be changed in a modern production-oriented ETA prediction pipeline.
-
-A redesigned experiment would use time-aware validation, train-only preprocessing, an explicit ETA-duration target, reproducible pipelines, and stronger baseline/model comparisons.
-
-The historical methodology and published results are preserved here for transparency.
+## Research Context
+This repository preserves the experimental work developed as an RMT final project and documented in the accompanying conference publication. The notebook has been cleaned and organized for readability while preserving the original experimental methodology and published results.
 
 ## Publication
 
